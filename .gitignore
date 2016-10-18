@@ -3,6 +3,7 @@
 *.suo
 *.vcxproj*
 *.nupkg
-./bin/
-./samples/Chapter[0-9][0-9]/Sample_[0-9][0-9]_[0-9][0-9]/.vs/
-./samples/Chapter[0-9][0-9]/Sample_[0-9][0-9]_[0-9][0-9]/Debug/
+*.VC.db
+bin/
+samples/Chapter[0-9][0-9]/Sample_[0-9][0-9]_[0-9][0-9]/.vs/
+samples/Chapter[0-9][0-9]/Sample_[0-9][0-9]_[0-9][0-9]/Debug/
