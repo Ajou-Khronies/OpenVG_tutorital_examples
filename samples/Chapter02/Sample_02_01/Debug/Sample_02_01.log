@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Sample_02_01.c
+Sample_02_01.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Sample_02_01.vcxproj -> D:\Desktop\OpenVG_StudyKit\samples\Chapter02\Sample_02_01\..\..\..\bin\Sample_02_01.exe
+  Sample_02_01.vcxproj -> ..\..\..\bin\Sample_02_01.pdb (Full PDB)

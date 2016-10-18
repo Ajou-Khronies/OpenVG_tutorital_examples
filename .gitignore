@@ -1,0 +1,8 @@
+*.dir
+*.sln
+*.suo
+*.vcxproj*
+*.nupkg
+./bin/
+./samples/Chapter[0-9][0-9]/.vs/
+./samples/Chapter[0-9][0-9]/debug/
